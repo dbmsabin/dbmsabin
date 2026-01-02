@@ -7,8 +7,8 @@ I have explored front-end technologies (HTML, CSS, JavaScript) and currently foc
 
 ### Technical Skills
 - Front-End Basics: HTML, CSS, JavaScript
-- Backend Development: Node.js, Express.js, Java (Servlets)
-- Databases: MongoDB
+- Backend Development: Node.js, Express.js, Java
+- Databases: MongoDB, MySQL
 - Core Concepts: REST APIs, CRUD operations, authentication, server-side logic
 - Tools: Git, GitHub
 
@@ -17,7 +17,8 @@ I have explored front-end technologies (HTML, CSS, JavaScript) and currently foc
 ### Current Focus
 - Building backend applications with Node.js and MongoDB
 - Implementing authentication and authorization mechanisms
-- Developing server-side applications using Java web technologies
+- Developing server-side applications and learning structured database integration with Java and MySQL  
+- Improving project design, clean code practices, and real-world application development
 
 ---
 
@@ -25,3 +26,4 @@ I have explored front-end technologies (HTML, CSS, JavaScript) and currently foc
 - Strengthen backend engineering fundamentals
 - Write clean, maintainable, and well-documented code
 - Gain experience by building real-world projects
+- Explore AI and machine learning applications in web and backend development
