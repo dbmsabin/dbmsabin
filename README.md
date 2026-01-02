@@ -9,7 +9,7 @@ I have explored front-end technologies (HTML, CSS, JavaScript) and currently foc
 - Front-End Basics: HTML, CSS, JavaScript
 - Backend Development: Node.js, Express.js, Java
 - Databases: MongoDB, MySQL
-- Core Concepts: REST APIs, CRUD operations, authentication, server-side logic
+- Core Concepts: OOP, REST APIs, CRUD operations, authentication, server-side logic
 - Tools: Git, GitHub
 
 ---
